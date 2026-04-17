@@ -5,7 +5,6 @@ using namespace std;
 int main() {
     char charr[20];
     string str;
-
     cout<<"Lenght of string in char before input: "<<strlen(charr)<<endl;
     cout<<"Lenght of string in string before input: "<<str.size()<<endl;
     cout<<"Enter a line of text: ";
